@@ -1,0 +1,88 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    width: 70%;
+    text-align: center;
+    background: linear-gradient(#ffffab 0%, #94faff 100%);
+    align-content: center;
+}
+
+
+#h {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+#i {
+    font-family: cursive;
+    font-size: 20px;
+    padding-top;
+    299px;
+}
+
+;
+
+#y {
+    text-decoration: underline;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    cursor: pointer;
+    top: 10px;
+    right: 50px;
+    height: 35px;
+    z-index: 10;
+
+
+}
+
+.list {
+    float: left;
+    color: black;
+    padding-bottom: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 40px;
+    font-size: 30px;
+
+
+}
+
+.list:hover {
+    background-color: darkorange;
+}
+
+hr {
+    top: 100px;
+}
+
+.articles:hover {
+    background-color: white;
+}
+
+.person {
+    height: 500px; 
+    width: 400px; 
+    transition: transform.1s; 
+    padding-right:50px; 
+    padding-left: 50px; 
+    
+}
+.person:hover{
+    transform: scale(.9)
+    
+}
+
+span{
+    font-size: 25px; 
+}
+#inspirations{
+    display:inline ; 
+}
